@@ -1,0 +1,11 @@
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+//basic
+@import "basic";
+
+.target-top{
+	position: absolute;
+	top:42px;
+	right: 16px;
+}
