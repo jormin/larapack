@@ -1,6 +1,6 @@
-## About PHPLib
+## About Larapack
 
-PHP第三方库整理项目
+Laravel第三方库整理项目
 
 ## License
 
